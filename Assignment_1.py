@@ -10,11 +10,11 @@ def epsilon():
 
 # Q1:
 """ before the Correction """
-print("before the Correction")
-print((abs(3.0 * (4.0 / 3.0 - 1) - 1)))
+print("Before the Correction: (abs(3.0 * (4.0 / 3.0 - 1) - 1) Elie= " + str((abs(3.0 * (4.0 / 3.0 - 1) - 1))))
+
 
 """ after the Correction """
-print((abs(3.0 * (4.0 / 3.0 - 1) - 1) - epsilon()))
+#print((abs(3.0 * (4.0 / 3.0 - 1) - 1) - epsilon()))
 
 #  Q2 - in the pdf file.
 
