@@ -25,7 +25,7 @@ print((abs(3.0 * (4.0 / 3.0 - 1) - 1) - epsilon()))
 print("\nQ2 in the pdf file")
 
 #  Q3 - Machine procession
-print("\nQ3: \nthe Machine procession is: " + str(epsilon()))
+print("\nQ3:\nthe Machine procession is: " + str(epsilon()))
 
 
 
