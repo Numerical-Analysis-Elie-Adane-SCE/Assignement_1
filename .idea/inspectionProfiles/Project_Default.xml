@@ -1,6 +1,8 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+<<<<<<< HEAD
+=======
     <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredErrors">
         <list>
@@ -8,6 +10,7 @@
         </list>
       </option>
     </inspection_tool>
+>>>>>>> f126a286c20847b6a2bce2061104071d1a270c88
     <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredErrors">
         <list>
@@ -17,6 +20,8 @@
         </list>
       </option>
     </inspection_tool>
+<<<<<<< HEAD
+=======
     <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredNames">
         <list>
@@ -25,5 +30,6 @@
         </list>
       </option>
     </inspection_tool>
+>>>>>>> f126a286c20847b6a2bce2061104071d1a270c88
   </profile>
 </component>
